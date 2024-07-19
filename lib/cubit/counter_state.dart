@@ -8,3 +8,5 @@ final class CounterInitial extends CounterState {}
 final class CounterA extends CounterState {}
 
 final class CounterB extends CounterState {}
+
+final class Counterzero extends CounterState {}
